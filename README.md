@@ -89,11 +89,11 @@ After running the script:
 Screenshots are located in `/images/` folder.
 
 1. ![azure-pws-admin](./images/1.png) – Get-Command -Verb Get -Noun *user*
-2. `2.png` – Get-Command -Verb Connect
-3. `3.png` – Approve sign-in request
-4. `4.png` – Successful authentication
-5. `5.png` – Create user script
-6. `6.png` – Verification on Entra
+2.  ![azure-pws-admin](./images/3.png) – Get-Command -Verb Connect
+3.  ![azure-pws-admin](./images/5.png) – Approve sign-in request
+4.  ![azure-pws-admin](./images/6.png) – Successful authentication
+5.  ![azure-pws-admin](./images/7.png) – Create user script
+6.  ![azure-pws-admin](./images/8.png) – Verification on Entra
 
 ---
 
